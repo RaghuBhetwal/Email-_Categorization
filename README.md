@@ -1,5 +1,6 @@
 # Email-_Categorization
-AI Assisted Message Distribution :: Objective is to automatically predict the top 5 recipients for incoming emails based on the email body. Dataset used from Enron Email Data
+AI Assisted Message Distribution :: Objective is to automatically predict the top 5 recipients for incoming emails based on the email body. Dataset used from Enron Email Data. 
+BERT, NB and LSTM were used for creation of Model. 
 
 # Flow of ML process
 
