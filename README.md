@@ -5,7 +5,7 @@ AI Assisted Message Distribution :: Objective is to automatically predict the to
 
 ![image](https://github.com/RaghuBhetwal/Email-_Categorization/assets/88844603/4d0908a0-6f5d-4f02-8edd-0854df2bc19d)
 
-# Training and Evaluation:![image](https://github.com/RaghuBhetwal/Email-_Categorization/assets/88844603/cfd4ab05-bf70-4451-8843-693d5fc5cc10)
+# Training and Evaluation
 ![image](https://github.com/RaghuBhetwal/Email-_Categorization/assets/88844603/cd14f404-6069-4ed6-babe-d0eceffdea20) ![image](https://github.com/RaghuBhetwal/Email-_Categorization/assets/88844603/3f6df330-0116-4798-ab9d-6d594b77fc3e)
 
 # Result
